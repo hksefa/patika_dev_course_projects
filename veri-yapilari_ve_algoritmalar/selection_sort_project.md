@@ -1,4 +1,4 @@
-# Proje 1 - Insertion Sort
+# Proje 1 - Selection Sort
 
 ---
 
